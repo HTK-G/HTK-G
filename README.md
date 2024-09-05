@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @HTK-G
+- 👀 I’m interested in guitar, painting, gardening, chilling...
+- 🌱 I’m currently learning anything about backend engineering
+- 💞️ I’m looking to collaborate on a fun project
+- 📫 How to reach me? DM me here.
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I don't know how to code.
+
+<!---
+HTK-G/HTK-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
