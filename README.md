@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a fun project
 - 📫 How to reach me? DM me here.
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I don't know how to code.
+- ⚡ Fun fact: I used to be studying Economics
 
 <!---
 HTK-G/HTK-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
