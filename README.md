@@ -4,9 +4,11 @@
 - 🌱 I’m currently working on integrating AI into Gmail.
 - 📫 Feel free to connect: harrisongaodev@gmail.com
 - ⚡ Fun fact: I'm also an art enthusiast and a guitar player. Check out more at [haorangao.com](https://haorangao.com)
-<div>
-      <img style="max-width:300px;" src="[https://cdn.loom.com/sessions/thumbnails/3e6442033c1c437ab4ecd1a96c3a3ff1-5d2c37a358e29403-full-play.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R1N2E0ZGMyZjZwMDF6bzE0bnJzb3FkYW45Y2Q1YWI3YW5qNm5ldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1w0yvMxBIv5M8WkL8/giphy.gif)">
-  </div>
+---
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R1N2E0ZGMyZjZwMDF6bzE0bnJzb3FkYW45Y2Q1YWI3YW5qNm5ldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/E1w0yvMxBIv5M8WkL8/giphy.gif" alt="Demo GIF" style="max-width: 300px;" />
+</div>
 
 <!---
 HTK-G/HTK-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
