@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R1N2E0ZGMyZjZwMDF6bzE0bnJzb3FkYW45Y2Q1YWI3YW5qNm5ldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/E1w0yvMxBIv5M8WkL8/giphy.gif" alt="Demo GIF" style="max-width: 300px;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R1N2E0ZGMyZjZwMDF6bzE0bnJzb3FkYW45Y2Q1YWI3YW5qNm5ldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/E1w0yvMxBIv5M8WkL8/giphy.gif" alt="Greeting GIF" style="max-width: 100px;" />
 </div>
 
 <!---
