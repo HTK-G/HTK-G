@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HTK-G, or Harrison.
 - 🗽 I’m a senior at NYU, majoring in Computer Science at the Courant Institute. 
-- 👀 Check out my latest gamified recruiting platform: [Firepit](thefirepitspace.com)
+- 👀 Check out my latest gamified recruiting platform: [Firepit](https://thefirepitspace.com)
 - 🌱 I’m currently working on integrating AI into Gmail.
 - 📫 Feel free to connect: harrisongaodev@gmail.com
 - ⚡ Fun fact: I'm also an art enthusiast and a guitar player. Check out more at [haorangao.com](https://haorangao.com)
